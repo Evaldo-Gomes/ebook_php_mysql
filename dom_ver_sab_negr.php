@@ -49,3 +49,5 @@ function calendario()
     </tr>
     <?php calendario(); ?>
 </table>
+
+//Falta deixar os domingos em vermelho e os sábados em negrito
